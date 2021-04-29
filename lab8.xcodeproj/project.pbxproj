@@ -15,6 +15,7 @@
 		34B3FB4B263A3DE400EFB335 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34B3FB49263A3DE400EFB335 /* LaunchScreen.storyboard */; };
 		34B3FB56263A3DE400EFB335 /* lab8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B3FB55263A3DE400EFB335 /* lab8Tests.swift */; };
 		34B3FB61263A3DE400EFB335 /* lab8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B3FB60263A3DE400EFB335 /* lab8UITests.swift */; };
+		34B3FB72263A400000EFB335 /* Class1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B3FB71263A400000EFB335 /* Class1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		34B3FB5C263A3DE400EFB335 /* lab8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34B3FB60263A3DE400EFB335 /* lab8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab8UITests.swift; sourceTree = "<group>"; };
 		34B3FB62263A3DE400EFB335 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34B3FB71263A400000EFB335 /* Class1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				34B3FB3E263A3DE300EFB335 /* AppDelegate.swift */,
 				34B3FB40263A3DE300EFB335 /* SceneDelegate.swift */,
 				34B3FB42263A3DE300EFB335 /* ViewController.swift */,
+				34B3FB71263A400000EFB335 /* Class1ViewController.swift */,
 				34B3FB44263A3DE300EFB335 /* Main.storyboard */,
 				34B3FB47263A3DE400EFB335 /* Assets.xcassets */,
 				34B3FB49263A3DE400EFB335 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				34B3FB43263A3DE300EFB335 /* ViewController.swift in Sources */,
 				34B3FB3F263A3DE300EFB335 /* AppDelegate.swift in Sources */,
 				34B3FB41263A3DE300EFB335 /* SceneDelegate.swift in Sources */,
+				34B3FB72263A400000EFB335 /* Class1ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
